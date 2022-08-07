@@ -1,0 +1,1 @@
+Exercício criado como aula inaugural da matéria de DS, onde foi ensinado como realizar o commit e o push de uma repositório local para o github.
